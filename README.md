@@ -1,2 +1,1 @@
-# go-leetcode
-Inventory of leetcode problems
+# The project to end all leetcode algorithms
